@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Hookets</lang>
+	</name>
+	<author>
+		<lang name="default">Alexei Lukin aka kerby</lang>
+	</author>
+	<homepage>http://hookets.ru/</homepage>
+	<version>1.0.4</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Hookets implements code and interface for easy maintaining of tiny code bits, called hookets</lang>
+		<lang name="russian">Hookets позволяет управлять и использовать хуки очень легко, делая из них хукеты - маленькие кусочки кода.</lang>
+	</description>
+
+</plugin>

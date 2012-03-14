@@ -1,0 +1,16 @@
+.hookets .table a { color: #333; }
+.hookets .table a:hover { color: #666; }
+
+.hookets .table { width: 100%; margin-bottom: 10px; cellspacing: 0px; border-collapse: collapse;}
+.hookets .table thead td { background: #9a9a9a; }
+.hookets .table td { border: 1px solid #ddd; padding: 5px; }
+
+.hookets .action li { float: left;}
+
+.hookets .action li.edit a { background: url(../images/edit.gif) no-repeat 0 1px; margin-left: 10px; padding-left: 15px;}
+.hookets .action li.delete a { background: url(../images/delete.gif) no-repeat 0 1px; margin-left: 10px; padding-left: 15px;}
+.hookets .action li.enable a { background: url(../images/a_enable.png) no-repeat 0 1px; margin-left: 10px; padding-left: 15px;}
+.hookets .action li.disable a { background: url(../images/a_disable.png) no-repeat 0 1px; margin-left: 10px; padding-left: 15px;}
+
+.hookets .strike {text-decoration: line-through;}
+.hookets .strike td {text-decoration: line-through;}
