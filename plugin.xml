@@ -7,7 +7,7 @@
 		<lang name="default">Alexei Lukin aka kerby</lang>
 	</author>
 	<homepage>http://hookets.ru/</homepage>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<requires>
 		<livestreet>0.4.2</livestreet>
 		<plugins>
